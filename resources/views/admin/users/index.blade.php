@@ -1,5 +1,5 @@
 @extends('layouts.admin')
 
 @section('content')
-    ramin
+    users index
 @endsection
